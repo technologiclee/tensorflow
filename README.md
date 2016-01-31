@@ -1,5 +1,7 @@
 #TensorFlow
 
+[![Join the chat at https://gitter.im/technologiclee/tensorflow](https://badges.gitter.im/technologiclee/tensorflow.svg)](https://gitter.im/technologiclee/tensorflow?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](http://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master)](http://ci.tensorflow.org/job/tensorflow-master)
 
 TensorFlow is an open source software library for numerical computation using
